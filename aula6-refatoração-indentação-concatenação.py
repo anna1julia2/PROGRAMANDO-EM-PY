@@ -36,4 +36,6 @@ sobrenome = 'anna'
 print ('hello', 'nome', 'sobrenome')
 
 #pular linha > \n barra ao contrario
+
+#selecionar tudo e apertar tab para >calcular<
     
