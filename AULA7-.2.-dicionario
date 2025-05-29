@@ -1,0 +1,79 @@
+#set é conjunto
+variavel =  10
+lista  =  [1,2,6]
+tupla = (1,5,5)
+conjunto = {1,2,3,3,3,6,5,3,6,5,2,3,'s','r','r'}
+print(conjunto)
+t = tuple(range(1,7))
+tupla = (1,2,3,4,5,6)
+l = list(range(1,10))
+c = set(range(0,11))
+c.add(100)
+print(c)
+
+alunos = {
+    
+'nomes':['Ana','Pedro','Julia','Maria'],
+'notas':[float(input('nota >')), float(input('nota >')), float(input('nota >')), float(input('nota >'))]
+
+}
+
+media_turma = (alunos['notas'][0] +  alunos['notas'][1] + alunos['notas'][2]+ alunos['notas'][3])/ len(alunos['notas'])
+
+print('média', media_turma)
+
+#------------------------------------------------------------------
+
+dicionario = {}
+dicionario['nome'] = 'ju'
+print(dicionario)
+
+ecommerci = {
+    
+    'livros' = ['a','b','c'] ou 'livros' : {
+        'a' :5,
+        'b' :6,
+        'c' :7
+        }
+    
+    'eletronicos' :{
+        'celular':555,
+        'fone' :70,
+        }
+    
+}
+
+print(ecommerci['livros']) ou (['eletronicos']
+                               
+ecommerce = {
+    
+    'livros' : {
+        
+        'A':50.0,
+        'B':70.0,
+        'C':100.0
+     
+        },
+    'eletronicos':{
+        
+        'Tablets':3000.0,
+        'Fone':150.0,
+             
+        }
+   
+    
+}
+
+secao1 = input('Digite o seção 1')
+secao2 = input('Digite o seção 2')
+
+produto1 = input('Digite o produto 1')
+produto2 = input('Digite o produto 2')
+
+carrinho = [produto1, produto2]
+valores =  [ecommerce[secao1][produto1],ecommerce[secao2][produto2]]
+soma =  sum(valores)
+
+print(carrinho)
+print('R$', soma)                               
+                               
