@@ -76,4 +76,35 @@ for n in range(5,6):
     else: 
        print('Não esta')     
          
-    
+
+# 1
+
+lista  =  list(range(2,21,2))
+print(lista)
+
+# 2
+
+numeros = [1,2,3,4,5,6,7,8,9,10]
+numeros =  list(range(1,11))
+
+
+# 3
+
+numeros.append(9)
+
+
+# 4
+
+numeros.remove(5)
+
+
+
+# 5
+
+
+carros  =  ['tesla', 'ferrari','Jeep']
+print(carros,numeros)
+
+carros +=(numeros)
+
+print(carros)
