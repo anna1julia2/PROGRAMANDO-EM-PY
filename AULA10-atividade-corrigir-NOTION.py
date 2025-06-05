@@ -74,6 +74,8 @@ lista = ['salada, macarronada, sanduiche ou sorvete?:']
       print ('lista'))
       escolha = int(input9'digite
 
+                    NOTION- RESOLUÇÃO 1- CORRIRGIR
+
        
        
        
