@@ -10,3 +10,4 @@
 
 #função e importancia da > EQUIPE DE T.I
 #profissionais do desenvolvimento direto do produto, responsaveis pela criação e testes do sistema solicitado.
+https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135
