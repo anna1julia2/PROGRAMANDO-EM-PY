@@ -1,0 +1,12 @@
+#SCRUM
+#função e importancia do > SCRUM MASTER
+#profissional que orienta, ensina e treina sobre o produto 
+
+#função e importancia do > PO
+#profissional que estuda e pesquisa o tipo de cliente e suas necessidades
+
+#função e importancia do > LIDER DA EQUIPE DE T.I
+#profissional que faz a gestão e guia a equipe de T.I para o desenvolvimento direto do produto 
+
+#função e importancia da > EQUIPE DE T.I
+#profissionais do desenvolvimento direto do produto, responsaveis pela criação e testes do sistema solicitado.
